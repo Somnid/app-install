@@ -1,0 +1,16 @@
+{
+  "name": "Installable App",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": 2.0
+    }
+  ],
+  "theme_color": "green",
+  "background_color": "#9E9E9E",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portriat"
+}
