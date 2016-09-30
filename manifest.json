@@ -20,5 +20,6 @@
       "platform": "play",
       "id": "com.google.samples.apps.iosched"
     }
-  ]
+  ],
+  "start_url": "https://somnid.github.io/app-install/"
 }
