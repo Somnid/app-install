@@ -1,5 +1,6 @@
 {
   "name": "Installable App",
+  "short_name" :"InstallApp",
   "icons": [
     {
       "src": "icon.png",
@@ -12,5 +13,5 @@
   "background_color": "#9E9E9E",
   "start_url": "index.html",
   "display": "standalone",
-  "orientation": "portriat"
+  "orientation": "portrait"
 }
